@@ -22,7 +22,7 @@
 | `cd <ruta>` | Cambia de directorio |
 | `ls` | Lista el contenido del directorio actual |
 | `ls -a` | Incluye ficheros ocultos |
-| `ls -<letra>*` | Filtra ficheros que empiezan por una letra |
+| `ls -l` | Enseña los permisos de los ficheros y directorios |
 | `tree` | Muestra carpetas y ficheros de forma esquematizada |
 
 ---
