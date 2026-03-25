@@ -71,6 +71,8 @@
 |---------|-------------|
 | `sudo pkill -f sshd` | ⚠️ Echa a todos los usuarios del servidor **(solo ROOT)** |
 | `sudo passwd <usuario>` | Cambia la contraseña de un usuario **(siendo ROOT)** |
+| `sudo adduser <usuario>`| Añade un usuario al sistema. |
+| `sudo deluser <usuario>`| Elimina un usuario del sistema |
 
 ---
 
