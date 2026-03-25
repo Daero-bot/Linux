@@ -24,13 +24,6 @@
 | `ls -a` | Incluye ficheros ocultos |
 | `ls -l` | Enseña los permisos de los ficheros y directorios |
 | `tree` | Muestra carpetas y ficheros de forma esquematizada |
-
----
-
-## Gestión de ficheros y directorios
-
-| Comando | Descripción |
-|---------|-------------|
 | `file <fichero>` | Muestra información sobre un fichero |
 | `touch <nombre>` | Crea un fichero vacío |
 | `rm <fichero>` | Borra un fichero |
